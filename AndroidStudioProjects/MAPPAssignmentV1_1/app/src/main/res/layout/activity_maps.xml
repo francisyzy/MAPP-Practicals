@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.pixelate.mappassignmentv1_1.MapsActivity" />
+
+    <ImageButton
+        android:contentDescription="@string/menu_cd"
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:onClick="onClick"
+        android:maxWidth="60dp"
+        android:maxHeight="60dp"
+        android:background="@null"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/map_menu" />
+
+    <ImageButton
+        android:contentDescription="@string/writepost_cd"
+        android:id="@+id/writepost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:maxWidth="270dp"
+        android:maxHeight="270dp"
+        android:background="@null"
+        android:onClick="onClick"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="520dp"
+        android:src="@drawable/map_writepost" />
+
+    <ImageButton
+        android:contentDescription="@string/search_cd"
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:onClick="onClick"
+        android:scaleType="fitCenter"
+        android:maxWidth="60dp"
+        android:maxHeight="60dp"
+        android:background="@null"
+        android:layout_marginStart="340dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/map_search" />
+
+
+
+</FrameLayout>
+
+

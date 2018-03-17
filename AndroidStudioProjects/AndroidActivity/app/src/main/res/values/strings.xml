@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidActivity</string>
+    <string name="about_title">About the Application</string>
+    <string name="about_text">This is my first Mobile Application. Developer: francisyzy </string>
+</resources>

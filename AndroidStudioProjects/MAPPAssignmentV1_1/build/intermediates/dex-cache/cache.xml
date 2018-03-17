@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/dadcf04c649dae458c18d4f253b42f171863ca2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e14694e9ee6d84d2e40fed6f1ec9ff40622dc103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/1a2a53e7b3781577264dd0f8140389b86381532f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a501be2af2c58c4fb9958611cfe49a41ffa36668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/82574226d17e8b9d61a36b43d4a4258d68928cf7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8723f4a84a0293f5e9ee76193e6bfec47137f048">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a283058fe7ee5b6bcf5a328dcd0bc9b2c1e2e9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b6b3dff0cca3643041f42a1fa0c86eb6f7177a5">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02b1de7331a19992fc6768cc30ee47ebd2681946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/e4c4b367da79e9e9bdf7b2411da65f8551672957/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b3ab9234ffd2c1d79dc4c33de868e0673c6ad22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_68d92f2aadb45771542f006ef1e2f05f1f9b1bc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/1619ee67e80a01b054bb4c8a04b3b8fd1b52b87a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f384024afea9e92e38628dc29fec96ed3bd836e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/917c67f0e3cc631a5617ef0f158eb99091ccec7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af26875652e085cd14713ff655bc3aa07960d459">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe61969e41cf60bdc2ad6ac116bc1e929e5e6476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/6a4a7a84f57bb4ba17aad1e74fb56fbea6069501/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdc1fcb7665e5aff9f26e22616b22b23f88b3cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_aa0ac59ef004b68613569b83d49372aed799fa65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/9b08b48d1cecf5f8d3062ab807e0ac9ed8e117b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6dfa77c356a9a8c13ad61253ed95ed3a746527e6">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f4e348ef371c3cbb7117b3bd13e0dade0f90131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/4ff15e17a9c915cff3d3104112ecb694bc6f0db1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_923dac221d293757f00cdb137a735cd1e6baf2f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/7e59afc565f348aaf458b3608177dd7531c0f1f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cacfe00a709329ee5823f0151cdd78783952fb06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/64194fce796abd8e5c5df244fca73a4a8398ac77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3252c08cd43079ed526780f1861cce15dcc216ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_cb97e3a7281ddac62f48c94b7e475a6246d0c164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/657824bdf68498539802c4438b4ac8dee4e00c7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2927ce27b753aa4ec9f7403f6b9cf7c77745b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/782329bc60004453aa952defc974b98764242ec8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b15775762ab2e6a1521a4f6a7b9d87b3baa6a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/6504b98d6dad09fe62be9f7a67beddc102737dbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29c01df32b49d48bb064f0f4f0fa8b84e2ac7467/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/dd3ef6391b095e6eaff71b3802a03d8f4cd10395/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_064c94c0a5423be599fa71a8b7de68892dce0fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/47095da9a3888daf4c62ed9ed52daab40f16fe38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_972a19d1927998ce8e8963e7fb49e47a5024b697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/a2c7048c80afb4a210d369d6bd61edd3e0956893/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0797c4e7dec18a674a17535f27bb84c1abbf4f3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/b08507d9f9e3b41359748f5833fd77e5943ba71c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4128662b4cfe230b7d7417fb797f3fbd143e38f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/242e1a8d685c0f1d9118eb6a30f9060047f8b160/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57b9bee26a12bb85ceb66a3b21ea8551434586bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c63871adceaf9a434ced0688b7878ac80092f746">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_02b1de7331a19992fc6768cc30ee47ebd2681946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/8239eef66ea23c1321f55f89d18b69572f0270ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_477966e37e1eddaddc51f8b8de92a3285f363cdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/fce092959995774b54641cf7227c35ac4c43aecf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b275acca724fca2cf431e311b2582d2a73ab940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_473d0bb6e03095e26479000b059ce8210b39e7a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/d52e5b5195f3f1dc4d400b8da0db75efaa3f297c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76ae685cb5fba22dba3f80c4730ecbb73877cc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b3cf650ec045c205affdb23e2f25e62b3d284a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/1906b250f283e145ad5be0825d5414cc9b3b864e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5f50e080b426327fe1851f6f7b5f836bff6ac9f">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_256896773f4ce6e47b8db60b9d96e0132828bc0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/80ca1d6e5578cdc87929db1b35f8605ec3b15ae4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30854fe0b2a6e495a821d8f41f52c0a1d18d8d2a">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a99d5e5e7d81a993c57b0d5bec5f33db4cc41e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/f5d467f1fdebce873427f44d77f2612e9eec0f9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b985bd4eb1abd0e7e1f49c9cdf80a0d3563bad2a">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b05c6386d0d914749667fcfead22f602a1a9f871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/73a2b7cc2c1c6cc62220226cc6364dd185917743/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83c8219b20298b7c5db7aa51c132d284b9f4c9bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/41dc2ace32f40ff1d7ac01c100907f6731477964/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abd5248209cd2e51f203b3acaf5ff0f0aebbf53a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/4bc717d01c618bf6690970987dd3f2ea981e0da7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85e609dc2ae6a9ec7bfa0c4492c7a81247b0d37f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/078bd0c9f9d8e8167218d15f927a02887b7d9edf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5687d5d0a5cc1113f84a0477d8fdd3b91222d26e">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e74eb6712af319b94efc2353b39934771ed5554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/eff5defbcbfab958d446c37535ae71bad40594c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a18355c1ab962385302254d89351b6d9c9f2d89c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/23538c758ccf38e84201295d1efa85437138e953/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4cd83a7fbcca3f096148a1a9fb40a93821d97df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/fa1583b514eeb97edbf0ec7c8de64aa0a397dfe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67d3615f923fcfa0a0c131c62e87392e574d9f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/c8b8fbf71f6dbbce0e507785f20a1bfacde916ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbdbfe15db870fde02657ab3324816dfd8337d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/be60e00cdfe5289aef849b7471177fba6df6c26a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56051553cc449af93bc290cfc3106e5bc7738c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_dfc3b8ca6bb3687bed62b31fbb6a115bba92d49b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/5d509543ee16c7f90832826ff22a76f9181516e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f43d6c042ee8eb48fa7606da4d1034d472a43cd">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d2a8a135ce2253141741197c4fc60d002e69b25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/ec19a2a83464eb0d83fa02a866f85d1ab2b09f94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63401cbd0a104e5d148af24ebf469f8031f1a9c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b3cf650ec045c205affdb23e2f25e62b3d284a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/d5cbd104e0d5c640b9960a4d18f70086262cb4d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45eba8968f8f95ec0d362fc99920cf29a0373e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francisyzy/.android/build-cache/95d9c2f46b14019621c41111fd8fd8f5517a32a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/francisyzy/AndroidStudioProjects/MAPPAssignmentV1_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039787ec75385e196070b497f773f8c187a06349/classes.dex" />
+    </item>
+
+</items>

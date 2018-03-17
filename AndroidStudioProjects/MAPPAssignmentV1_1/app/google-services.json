@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386307972162",
+    "firebase_url": "https://mappassignment-ee091.firebaseio.com",
+    "project_id": "mappassignment-ee091",
+    "storage_bucket": "mappassignment-ee091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386307972162:android:ce37e488df78b107",
+        "android_client_info": {
+          "package_name": "com.pixelate.mappassignmentv1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386307972162-4scsetqp992epca76k8aqisqe215dn67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixelate.mappassignmentv1_1",
+            "certificate_hash": "4b292348f2f3d740db5b970e86da9b525e737858"
+          }
+        },
+        {
+          "client_id": "386307972162-2ivf7tp0cfecsjltijbj14hljkf4tolm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYB357MLZW2jHGP0ovrsouO4gcXKXhn5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386307972162-2ivf7tp0cfecsjltijbj14hljkf4tolm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

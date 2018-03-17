@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pixelate.mappassignmentv1_1.UserProfile$PlaceholderFragment">
+
+    <TextView
+        android:id="@+id/section_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/userProfile_NameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/section_label"
+        android:text="Name"
+        android:textColor="@color/input_register"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/userProfile_NameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/userProfile_NameText"
+        android:layout_below="@+id/userProfile_NameText"
+        android:layout_marginTop="5dp"
+        android:text="userProfile_NameTextView"
+        android:textSize="18sp"
+        android:textColor="@color/input_login"/>
+
+    <TextView
+        android:id="@+id/userProfile_UserIDText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/userProfile_NameTextView"
+        android:layout_below="@+id/userProfile_NameTextView"
+        android:layout_marginTop="50dp"
+        android:text="User ID"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/userProfile_UserIDTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/userProfile_UserIDText"
+        android:layout_below="@+id/userProfile_UserIDText"
+        android:layout_marginTop="5dp"
+        android:text="userProfile_UserIDTextView"
+        android:textSize="18sp"
+        android:textColor="@color/input_login" />
+
+    <TextView
+        android:id="@+id/userProfile_GenderText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/userProfile_UserIDTextView"
+        android:layout_below="@+id/userProfile_UserIDTextView"
+        android:layout_marginTop="50dp"
+        android:text="Gender"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/userProfile_GenderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/userProfile_GenderText"
+        android:layout_below="@+id/userProfile_GenderText"
+        android:layout_marginTop="5dp"
+        android:text="TuserProfile_GenderTextView"
+        android:textSize="18sp"
+        android:textColor="@color/input_login"/>
+
+
+</RelativeLayout>

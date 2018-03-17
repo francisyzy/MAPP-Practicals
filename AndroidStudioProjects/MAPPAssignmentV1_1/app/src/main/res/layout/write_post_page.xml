@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/view2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="38dp"
+        android:elevation="12dp"
+        android:innerRadius="0dp"
+        android:shape="ring"
+        android:thicknessRatio="1.9"
+        app:cardCornerRadius="40dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:id="@+id/writepost_profilepic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/menu_profile" />
+    </android.support.v7.widget.CardView>
+
+    <EditText
+        android:id="@+id/writepost_edit_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/view2"
+        android:layout_marginStart="14dp"
+        android:layout_toEndOf="@+id/view2"
+        android:ems="10"
+        android:hint="Title"
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/writepost_edit_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/view2"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="11dp"
+        android:ems="10"
+        android:hint="Content"
+        android:inputType="textMultiLine"
+        android:layout_alignEnd="@+id/writepost_edit_title" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/writepost_edit_content"
+        android:layout_below="@+id/view2"
+        android:layout_marginTop="45dp"
+        android:text="Post Content" />
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/radioGroup"
+        android:layout_marginTop="62dp"
+        android:layout_below="@+id/writepost_edit_content"
+        android:layout_alignStart="@+id/writepost_edit_content">
+    <RadioButton
+        android:id="@+id/writepost_privacy_private"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Private(Only you)"
+        android:layout_above="@+id/privacy_friends"
+        android:layout_alignStart="@+id/editText2" />
+
+    <RadioButton
+        android:id="@+id/writepost_privacy_friends"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/privacy_public"
+        android:layout_alignStart="@+id/privacy_private"
+        android:text="Friends" />
+
+    <RadioButton
+        android:id="@+id/writepost_privacy_public"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignStart="@+id/privacy_friends"
+        android:text="Pubilc" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/writepost_post_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="POst"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/writepost_edit_content" />
+
+    <ImageButton
+        android:id="@+id/writepost_add_picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/write_post_addpicture"
+
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/radioGroup"
+        android:layout_alignStart="@+id/radioGroup" />
+
+</RelativeLayout>
